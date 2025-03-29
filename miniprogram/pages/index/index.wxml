@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view style="display: flex; flex-direction: column; align-items: center; position: relative;">
+    <button bindtap="loginAct">login</button>
+  </view>
+</scroll-view>
